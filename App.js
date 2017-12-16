@@ -1,14 +1,16 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, ScrollView } from 'react-native';
 import Header from './src/components/Header';
+import PrayTimeLists from './src/components/PrayTimeLists';
 import colors from './src/constants/colors';
 
 export default class App extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
+      <ScrollView style={styles.container}>
         <Header />
-      </View>
+        <PrayTimeLists />
+      </ScrollView>
     );
   }
 }
