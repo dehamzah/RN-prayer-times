@@ -1,7 +1,7 @@
 # React Native Expo Prayer Times
 
-![Screenshots](./screenshots/01.png)
-![Screenshots](./screenshots/02.png)
+![Screenshots](./screenshots/01.jpeg)
+![Screenshots](./screenshots/02.jpeg)
 
 ## Design
 
