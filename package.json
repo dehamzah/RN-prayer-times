@@ -3,8 +3,11 @@
   "private": true,
   "dependencies": {
     "expo": "^24.0.0",
+    "hijri-date": "^0.2.2",
     "prayer-times": "^0.1.0",
     "react": "16.0.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-modal-selector": "0.0.24"
   }
 }
